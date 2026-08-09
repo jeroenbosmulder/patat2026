@@ -1,6 +1,6 @@
 {
-  "name": "Flight Delay Causes",
-  "short_name": "Delays",
+  "name": "Air France-KLM Punctuality Analysis",
+  "short_name": "Punctuality",
   "display": "standalone",
   "background_color": "#051039",
   "theme_color": "#051039",
